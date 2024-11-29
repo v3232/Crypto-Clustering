@@ -44,7 +44,7 @@ The following Python libraries are required:
 
 ## Observations
 * Without PCA: The clusters are formed based on all features in the dataset, which might include noise and correlations, leading to less distinct groups.
-![Clustering without PCA](Scatterplot_without_PCA.png)
+![Scatterplot_without_PCA](Scatterplot_without_PCA.png)
 
 * With PCA: Dimensionality reduction improves clustering performance, forming more discrete and meaningful clusters.
-![Clustering with PCA](Scatterplot_with_PCA.png)
+![Scatterplot_with_PCA](Scatterplot_with_PCA.png)
